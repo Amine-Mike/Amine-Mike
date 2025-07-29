@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Amine Mike</h1>
 
-- 🎓 Student at EPITA Paris **Final year in Computer Science Engineering, specializing in AI.**
-- 💻 Ruby Enthusiast 💬 Ask me about **Passionate about coding and exploring the versatility of Ruby.**
-- 🚀 Always Learning **Eager to dive into new technologies and expand my knowledge daily.**
-- 🌱 Focused on AI **Deepening my understanding of AI and its real-world applications.**
-- ⚡ Future Innovator **Aiming to contribute to tech with impactful, AI-driven solutions.**
+- 🎓 Student at EPITA Paris -- **Final year in Computer Science Engineering, specializing in AI.**
+- 💻 Ruby Enthusiast -- **Passionate about coding and exploring the versatility of Ruby.**
+- 🚀 Always Learning -- **Eager to dive into new technologies and expand my knowledge daily.**
+- 🌱 Focused on AI -- **Deepening my understanding of AI and its real-world applications.**
+- ⚡ Future Innovator -- **Aiming to contribute to tech with impactful, AI-driven solutions.**
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/amine-mike-el-maalouf" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amine-mike-el-maalouf" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/amine-mike-el-maalouf" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amine-mike-el-maalouf" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -50,12 +50,4 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Amine-Mike&theme=dracula" alt="Amine-Mike" />
   </a> 
-</p>
-
-<p> 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amine-Mike&theme=dracula" alt="Amine-Mike" />
-</p>
-
-<p> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amine-Mike&theme=dracula" height="180em" />
 </p>
