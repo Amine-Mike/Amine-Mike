@@ -48,6 +48,6 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Amine-Mike&theme=dracula" alt="Amine-Mike" />
+    <img src="https://stable-github-profile-trophy.vercel.app/?username=Amine-Mike&theme=dracula" alt="trophies" />
   </a> 
 </p>
